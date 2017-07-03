@@ -1,0 +1,17 @@
+'post button
+Sub front()
+
+        'POST
+        Dim tw As TwRequestBuilder
+
+        Set tw = New TwRequestBuilder
+        If tw.UpdateStatus("@cit_okawa_excel " + Range("CR9").value + " #test" + Format(Now, "nnss")) = True Then
+
+        Else
+            MsgBox "Post failed.", vbExclamation, TITLE
+        End If
+        Range("CR9") = ""
+        
+        Set tw = Nothing
+
+End Sub
