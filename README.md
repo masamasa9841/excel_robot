@@ -25,7 +25,7 @@ Use Excel or Spreadsheet
 ```
 ### License
 
-This repository is licensed under the GPLv3 license, see [LICENSE](./LICENSE).
+This repository is licensed under the MIT license, see [LICENSE](./LICENSE).
 
 ### Reference
 
