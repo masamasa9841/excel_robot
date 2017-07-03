@@ -34,3 +34,5 @@ This repository is licensed under the MIT license, see [LICENSE](./LICENSE).
 [夜の果て](http://yoruhate.arcanus.info/)
 
 [きじとら](https://kijtra.com/article/twitter-api-for-google-apps-script-without-oauthconfig/)
+
+[anyway making](http://net.univ-q.com/archives/38)
